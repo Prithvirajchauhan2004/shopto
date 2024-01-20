@@ -17,8 +17,8 @@ ShopSavvy is a versatile web application designed to help you track product pric
 1. *Clone the Repository:*
 
    bash
-   git clone https://github.com/mrExplorist/ShopSavvy.git
-   cd ShopSavvy
+   git clone https://github.com/Prithvirajchauhan2004/shopto
+   cd Shopto
    
 
 2. *Install Dependencies:*
